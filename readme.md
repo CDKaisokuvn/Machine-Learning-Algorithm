@@ -7,3 +7,7 @@
 3. Polynominal Regression
 
 Some examples from edx, scikit-learn build-in datasets
+
+## 2. Clustering problems
+
+1. K-means algorithm
